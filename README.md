@@ -1,5 +1,5 @@
 # ThreadSystem
-This project is a console implementation to the idea of Threads similir to the one in twitter
+This project is a console implementation in c++ to the idea of Threads similir to the one in twitter
 
 In this project:
                
